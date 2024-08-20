@@ -11,7 +11,7 @@ only happens on the software level and does not simulate full PCIE AER
 handling on the platform level.
 
 The PCIE AER error to be injected are described in an input language
-which reflects PCIE AER related registers quite straighforward.
+which reflects PCIE AER related registers quite straightforward.
 
 See the PCI Express Base Specification section 7.10 for details on
 PCIE AER related registers.
@@ -34,10 +34,10 @@ command:
 
   Where
 
-     WWWW is the domain (segment) in hexidecimal (optional)
-     XX is the bus number in hexidecimal
-     YY is the device number in hexidecimal
-     Z is the function number in hexidecimal
+     WWWW is the domain (segment) in hexadecimal (optional)
+     XX is the bus number in hexadecimal
+     YY is the device number in hexadecimal
+     Z is the function number in hexadecimal
 
 Alternatively, you can use:
 

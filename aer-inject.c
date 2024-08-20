@@ -39,7 +39,7 @@ void usage(const char *prgname)
 "\n"
 "  PCI_ID       The [<domain>:]<bus>:<slot>.<func> of the device in\n"
 "               hex (same as lspci)\n"
-"  FILE         Error data file (use stdin if ommitted)\n"
+"  FILE         Error data file (use stdin if omitted)\n"
 	       , prgname, prgname, prgname);
 }
 
