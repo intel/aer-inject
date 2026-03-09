@@ -14,7 +14,6 @@ Requires a new Linux kernel with PCIE AER error injection patches.
 The PCIE AER error injection patches are currently available from
 git://git.kernel.org/pub/scm/linux/kernel/git/xxx.git
 
-
 Authors:
 
 Huang Ying <ying.huang@intel.com>
